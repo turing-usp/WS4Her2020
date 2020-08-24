@@ -1,0 +1,5 @@
+node_modules/
+logs/
+.ipynb_checkpoints/
+mkcsv.ipynb
+
