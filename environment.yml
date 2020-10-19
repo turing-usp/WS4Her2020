@@ -1,9 +1,11 @@
-name: ws4her
-
+name: ws4her-environment
+channels:
+  - conda-forge
 dependencies:
- - python=3.6
- - nltk
- - spacy
- - pandas
- - numpy
- - sklearn
+  - numpy
+  - nltk
+  - spacy
+  - matplotlib
+  - sklearn
+  - pandas
+
