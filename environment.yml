@@ -1,0 +1,8 @@
+name: ws4her
+
+dependencies:	
+	- nltk
+	- spacy
+	- pandas
+	- numpy
+	- sklearn
